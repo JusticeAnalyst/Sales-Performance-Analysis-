@@ -4,7 +4,7 @@ This Sales Performance Analysis provides a comprehensive overview of key sales m
 The analysis focuses on trends, revenues performance, profit, sub_category etc.
 ## Objectives
 Track monthly, yearly sales performance.
-Measure keey performance indicators (KPI) like Revenue,COGS,Profit,Order_Quantity, Previous Year(PY) and YOY grwoth.
+Measure keey performance indicators (KPI) like Revenue,COGS,Profit,Order_Quantity, Previous Year(PY) and YoY grwoth.
 Identity Sub_category, Gender, Age_group and monthly and yearly sales representative.
 Support strategic decision using insights.
 ## Dashboard Features
@@ -24,9 +24,9 @@ Visualization: Line Graphs, Bar Chart, Column Chart and KPI.
 -YoY% Profit:-6.60%.
 1. All th Key Metrics Delinced YOY%: You are seeing a decrease in Revenue, COGS, and profit, which inDicate overall lower business activity compared to th previous year.
 2.COGS declined more than Revenues: COGS dropped by 14.56%, while revenues declined by 11.57%.
--:This suggeest costs were reduced more significantly than the drop in revenue, which could indicate better cost control or lower production/output needs.
+(This suggeest costs were reduced more significantly than the drop in revenue, which could indicate better cost control or lower production/output needs)
 3. Profit Declined the least(-6.60%):
-*This shows that although revenue dropped, the business was able to preserve more of its profit margin through effective cost management.
+  This shows that although revenue dropped, the business was able to preserve more of its profit margin through effective cost management.
 *In other words, profitability efficiency improved, even though the absolute figures decreased.
 ## Recommendation
 1. Investigate revenue decline:
