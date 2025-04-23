@@ -37,7 +37,7 @@ The analysis focuses on trends, revenue performance, profit, sub-category, etc.
      efficiencies and consider how you can sustain or scale that.
 3.	Strengthen marketing & scale Strategy:
    If cost management is under focus should be on growing revenue again through:
-(a).	Argent marketing campaigns
+(a).	Targent marketing campaigns
 (b).	New customer acquisition
 (c).	Upselling or cross-selling to existing customers 
 4.	Monitor Profit Quality:
